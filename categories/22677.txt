@@ -1,0 +1,8 @@
+parentID=22677
+pattern
+numObjects=5
+2240
+2280
+2270
+2359
+2500
