@@ -1,5 +1,5 @@
 id=22664
-Newcomen Drill with Full Boiler# just filled
+Newcomen Drill with Full Boiler#justFilled
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=22672
-Newcomen Lathe with Charcoal# just filled
+Newcomen Lathe with Charcoal#justFilled
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
